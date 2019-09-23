@@ -20,7 +20,9 @@ poetry install
 
 ## Step 3: Put some stuff in the project
 https://flask-restful.readthedocs.io/en/latest/
+
 https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+
 https://github.com/github/gitignore/blob/master/Python.gitignore
 
 ## Step 4: In a new terminal run the server:
