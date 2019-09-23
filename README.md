@@ -34,16 +34,27 @@ python .\service.py
 
 ## Step 5: Load as Excel data source
 Select Data from the Ribbon
+
 ![alt text](https://github.com/jpsmithnl/flask_excel/blob/master/img/excel.JPG "ribbon")
+
 Get Data > From Other Sources > From Web
+
 URL: Http://localhost:5000 > Ok
+
 ![alt text](https://github.com/jpsmithnl/flask_excel/blob/master/img/data_source.JPG "data source")
+
 Parse > JSON 
+
 To table > Ok
+
 Expand columns > Ok
+
 ![alt text](https://github.com/jpsmithnl/flask_excel/blob/master/img/expand.JPG "expand")
+
 Close and Load
+
 ![alt text](https://github.com/jpsmithnl/flask_excel/blob/master/img/result.JPG "result")
+
 
 
 ## Step 6: push changes
