@@ -4,6 +4,7 @@ Here's how this project was created
 
 ## Step 1: Install python prerequsites
 https://github.com/pyenv/pyenv
+
 https://poetry.eustace.io/docs/#installation
 
 http://noseworthy.github.io/talks/python-intro/python-intro.html#/5
